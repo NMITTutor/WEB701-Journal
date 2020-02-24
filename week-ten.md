@@ -10,7 +10,7 @@
 [7](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-seven.md) | 
 [8](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-eight.md) | 
 [9](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-nine.md) | 
-[10](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-ten.md) | 
+10 | 
 [11](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-eleven.md) | 
 [12](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-twelve.md) | 
 [13](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-thirteen.md) | 
