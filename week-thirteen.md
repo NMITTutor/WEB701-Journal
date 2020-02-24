@@ -13,7 +13,7 @@
 [10](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-ten.md) | 
 [11](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-eleven.md) | 
 [12](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-twelve.md) | 
-[13](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-thirteen.md) | 
+13 | 
 [14](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-fourteen.md) | 
 [15](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-fifteen.md) | 
 [16](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-sixteen.md) |
