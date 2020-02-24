@@ -9,12 +9,10 @@ We broke into teams to analyse and create a small presentation conveying the cou
 * Implementation (50%)
 
 <p align="center">
-  <img width="460" height="300" src="/images/a-new-javascript-framework-is-coming.png">
+  <img width="400" height="300" src="/images/a-new-javascript-framework-is-coming.png">
 </p>
 
 I'm looking forward to the content of this course as I really enjoyed the introduction to React, Redux and Express during the previous level 6 WEB class. I did feel however that there were so many frameworks available and I look forward to adding a process for evaluating them to my currently limited tool kit.  
-
-![framework meme](/images/a-new-javascript-framework-is-coming.png)
 
 - [x] test
 
