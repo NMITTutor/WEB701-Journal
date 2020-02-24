@@ -14,7 +14,7 @@ We broke into teams to analyse and create a small presentation conveying the cou
 <br/>
 I'm looking forward to the content of this course as I really enjoyed the introduction to React, Redux and Express during the previous level 6 WEB class. I did feel however that there are so many frameworks available, and I look forward to adding a process for evaluating them to my currently limited tool kit.  
 
-## TODO
+### TODO
 - [x] Submit Journal Link
 
 #
