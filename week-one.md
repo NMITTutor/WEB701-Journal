@@ -7,7 +7,7 @@ We broke into teams to analyse and create a small presentation conveying the cou
 * Journal (10%)
 * Analysis and Design (40%)
 * Implementation (50%)
-
+<br/>
 <p align="center">
   <img width="400" height="300" src="/images/a-new-javascript-framework-is-coming.png">
 </p>
