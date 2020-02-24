@@ -12,9 +12,10 @@ We broke into teams to analyse and create a small presentation conveying the cou
   <img width="400" height="300" src="/images/a-new-javascript-framework-is-coming.png">
 </p>
 <br/>
-I'm looking forward to the content of this course as I really enjoyed the introduction to React, Redux and Express during the previous level 6 WEB class. I did feel however that there were so many frameworks available and I look forward to adding a process for evaluating them to my currently limited tool kit.  
+I'm looking forward to the content of this course as I really enjoyed the introduction to React, Redux and Express during the previous level 6 WEB class. I did feel however that there are so many frameworks available, and I look forward to adding a process for evaluating them to my currently limited tool kit.  
 
-- [x] test
+## TODO
+- [x] Submit Journal Link
 
 #
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md) | 
