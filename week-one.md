@@ -4,9 +4,13 @@
 The first session of WEB701 involved breaking down the course material to generate an understanding of course requirements. 
 
 We broke into teams to analyse and create a small presentation conveying the course material to the class. The Course is broken into three assignments:
-* Journal
-* Analysis and Design
-* Implementation
+* Journal (10%)
+* Analysis and Design (40%)
+* Implementation (50%)
+
+The courses overall focus is on evaluation and implementation of modern web frameworks. 
+
+- [x] test
 
 #
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md) | 
