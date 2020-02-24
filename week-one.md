@@ -16,6 +16,11 @@ I'm looking forward to the content of this course as I really enjoyed the introd
 
 ### TODO
 - [x] Submit Journal Link
+- [ ] Preliminaries and Information Architecture resources
+Framework Tutorials
+- [ ] [Frameworks Video](https://www.lynda.com/Web-Design-tutorials/Frameworks/177837/364286-4.html)
+- [ ] [Why Use Frameworks](https://www.lynda.com/PHP-tutorials/Why-use-framework/540346/579816-4.html?srchtrk=index%3a5%0alinktypeid%3a2%0aq%3aLaravel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) 
+- [ ] [Node.js Frameworks](https://www.linkedin.com/learning/learning-node-js-2/node-js-frameworks-2?accountId=76059146&u=76059146&success=true&authUUID=%2FMKUP5z7RFGxYRYRi%2Fm1Jg%3D%3D)
 
 #
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md) | 
