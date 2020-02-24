@@ -1,6 +1,6 @@
 # Week Two
 
-[Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one) | 
+[Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) | 
 [1](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) | 
 [2](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-two.md) | 
 [3](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md) | 
@@ -19,4 +19,4 @@
 [16](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-sixteen.md) |
 [Next](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md)
 
-[Back to Contents](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/README.md)
+[Back to Contents](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md)
