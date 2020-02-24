@@ -3,12 +3,12 @@
 ## Session One
 The first session of WEB701 involved breaking down the course material to generate an understanding of course requirements. 
 
-We broke into teams to analyse and create a small presentation conveying the course material to the class. The Course is broken into three assignments:
+We broke into teams to analyse and create a small presentation conveying the course material to the class. The courses overall focus is on evaluation and implementation of modern web frameworks and is broken down into three assignments:
 * Journal (10%)
 * Analysis and Design (40%)
 * Implementation (50%)
 
-The courses overall focus is on evaluation and implementation of modern web frameworks. 
+I'm looking forward to the content of this course as I really enjoyed the introduction to React, Redux and Express during the previous level 6 WEB class. I did feel however that there were so many frameworks available and I look forward to adding a process for evaluating them to my currently limited tool kit.  
 
 - [x] test
 
