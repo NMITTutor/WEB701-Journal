@@ -5,7 +5,7 @@
 [2](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-two.md) | 
 [3](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md) | 
 [4](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-four.md) | 
-[5](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-five.md) | 
+5 | 
 [6](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-six.md) | 
 [7](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-seven.md) | 
 [8](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-eight.md) | 
