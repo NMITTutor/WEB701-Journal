@@ -1,5 +1,10 @@
 # Week One
 
+## Session One
+The first session of WEB701 involved breaking down the course material to generate an understanding of course requirements. 
+
+We broke into teams to analyse and create a small presentation conveying the course material to the class.  
+
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md) | 
 1 | 
 [2](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-two.md) | 
