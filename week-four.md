@@ -1,7 +1,7 @@
 # Week Four
 
-[Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) | 
-[1](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md) | 
+[Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md) | 
+[1](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) | 
 [2](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-two.md) | 
 [3](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md) | 
 4 | 
