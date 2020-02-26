@@ -21,23 +21,36 @@ We looked at two short videos that described Information and Architecture.
 Information is the understanding we gain from analysing a certain set of data and its context. It's not simply the facts that we find, but the details that result by arranging the facts within the provided context to provide an accepted outcome.
 #### Information Architecture
 Architecture in general refers to the underlying design or structure. 
-Information architecture can describe how information should be grouped and how it should link together. For our project we will need to consider grouping of our web content, and the structure of that information to allow easy navigation. Users should be able to navigate to the information quickly and without difficulty. 
+Information architecture can describe how information should be grouped and how it should link together which will potentially increase the value of our content for both the businesses and users. 
 
-## Assignment Two - Milestone One Overview
+For our project we will need to consider grouping of our web content, and the structure of that information to allow navigation in a simple and logical way to help [satisfy the cat](https://www.youtube.com/watch?v=dln9xDsmCoY&feature=youtu.be).  
+
+## Assignment Two - Milestone One
 We analysed the analysis, design and report requirements for Milestone One of Assignment Two. Most of the requirements we will be familiar with from previous study. There was one note given which I will be attempting to follow which is related to our mindset during the design phase. This is to remove the thought process of delegating information to seperate web pages, and group information on its own merits prior to design. This will take some conscious effort as seperating information by page during design has occured naturally in the past. 
+
+#### An interesting set of Information Architecture Principles sourced from [careerfoundry.com](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/#1-what-is-information-architecture)
+* **The principle of objects:** Content should be treated as a living, breathing thing. It has lifecycles, behaviors, and attributes.
+* **The principle of choices:** More is less. Keep the number of choices to a minimum.
+* **The principle of disclosure:** Show a preview of information that will help users understand what kind of information is hidden if they dig deeper.
+* **The principle of exemplars:** Show examples of content when describing the content of the categories.
+* **The principle of front doors:** Assume that at least 50% of users will use a different entry point than the home page.
+* **The principle of multiple classifications:** Offer users several different classification schemes to browse the site’s content.
+* **The principle of focused navigation:** Keep navigation simple and never mix different things.
+* **The principle of growth:** Assume that the content on the website will grow. Make sure the website is scalable.
 
 
 ## TODO
-- [x] Submit Journal Link - Moodle
-- [x] Preliminaries
-- [x] Information Architecture resources - Moodle
+- [x] Submit Journal Link - *Moodle*
+- [x] Preliminaries - *Moodle*
+- [x] Information Architecture resources - *Moodle*
+- [x] [Frameworks](https://www.lynda.com/Web-Design-tutorials/Frameworks/177837/364286-4.html) 
+*Video*
+- [x] [Why Use Frameworks](https://www.lynda.com/PHP-tutorials/Why-use-framework/540346/579816-4.html?srchtrk=index%3a5%0alinktypeid%3a2%0aq%3aLaravel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - *Video* 
+- [x] [Node.js Frameworks](https://www.linkedin.com/learning/learning-node-js-2/node-js-frameworks-2?accountId=76059146&u=76059146&success=true&authUUID=%2FMKUP5z7RFGxYRYRi%2Fm1Jg%3D%3D) - *Video*
+- [x] Complete Draft Project Proposal - *Project*
+- [x] Install Express - *Project*
+- [x] Create Report Skelliton: Assignment Two - Milestone One - *Project*
 
-## Tutorials
-- [ ] [Frameworks Video](https://www.lynda.com/Web-Design-tutorials/Frameworks/177837/364286-4.html)
-- [ ] [Why Use Frameworks](https://www.lynda.com/PHP-tutorials/Why-use-framework/540346/579816-4.html?srchtrk=index%3a5%0alinktypeid%3a2%0aq%3aLaravel%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) 
-- [ ] [Node.js Frameworks](https://www.linkedin.com/learning/learning-node-js-2/node-js-frameworks-2?accountId=76059146&u=76059146&success=true&authUUID=%2FMKUP5z7RFGxYRYRi%2Fm1Jg%3D%3D)
-- [ ] Complete Draft Project Proposal
-- [ ] Install Express
 
 #
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md) | 
