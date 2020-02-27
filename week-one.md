@@ -73,3 +73,6 @@ We analysed the analysis, design and report requirements for Milestone One of As
 [Next](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-two.md)
 
 [Back to Contents](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md)
+
+## TODD's COMMENTS
+Ka Pai - this is a very good start.I am planning on reviewing WEB701 journal entries each Friday morning. At this point I presume you have a bit of work to do, and will write your journal entries for the first two weeks by next Friday, write about IA, installation and first experiences of Express.js, and Vue.js . 
