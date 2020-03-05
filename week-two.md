@@ -71,3 +71,4 @@ I will be continuing with the **user experience** and **site content** sections 
 [Next](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md)
 
 [Back to Contents](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md)
+## Todd's Comment - this is very good, it would be nice to see some or get acustomed to tgaking screenshots of your processes. Keep up the good work
