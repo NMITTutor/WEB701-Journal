@@ -34,6 +34,12 @@ I do feel that personally I would be able to pick up Vue slightly faster than Re
 
 Express.js as a backend framework and Vue.js as a frontend framework is a real contender for the upcoming project. I'm looking forward to investigating Svelte over the next week to see if there are any changes.
 
+## Assignment Two - Milestone One
+
+I have completed drafts for the **user requirements** and **site goals** section of the report. This involved analysing the project brief and supporting resources to reveal the overall idea behind the web app.
+
+I will be continuing with the **user experience** and **site content** sections until next week when I will hopefully be able to begin the **site structure** section.
+
 ## TODO:
 
 - [x] [Why Should We Learn Vue?](https://www.linkedin.com/learning/vue-js-essential-training-2/why-you-should-learn-vue-js?u=76059146) _Tutorial_
