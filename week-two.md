@@ -71,3 +71,4 @@ I will be continuing with the **user experience** and **site content** sections 
 [Next](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md)
 
 [Back to Contents](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/contents.md)
+## 
