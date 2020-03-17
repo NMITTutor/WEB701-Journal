@@ -43,13 +43,13 @@ I will be continuing with the **user experience** and **site content** sections 
 ## TODO:
 
 - [x] [Why Should We Learn Vue?](https://www.linkedin.com/learning/vue-js-essential-training-2/why-you-should-learn-vue-js?u=76059146) _Tutorial_
-- [ ] [Github Tutorial](https://www.lynda.com/GitHub-tutorials/Welcome/162276/173429-4.html) _Tutorial_
+- [ ] ~~[Github Tutorial](https://www.lynda.com/GitHub-tutorials/Welcome/162276/173429-4.html) _Tutorial_~~ _I have a reasonable understanding of Git and can use this resource in an as needed basis._
 
 ## Create Empty Projects:
 
-- [ ] Vue
-- [ ] Express
-- [ ] Svelte
+- [x] Vue
+- [x] Express
+- [x] Svelte
 
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) |
 [1](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) |
